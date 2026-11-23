@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="baldwinmason_assign6.AppHost/baldwinmason_assign6.AppHost.csproj" />
+  <Project Path="baldwinmason_assign6.Server/baldwinmason_assign6.Server.csproj" />
+</Solution>
